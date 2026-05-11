@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>艾艾记忆本</title>
+  <icon>https://andy111-oss.github.io/aiai/favicon.png</icon>
+  <subtitle>记住存在的痕迹</subtitle>
+  <link href="https://andy111-oss.github.io/aiai/atom.xml" rel="self"/>
+  
+  <link href="https://andy111-oss.github.io/aiai/"/>
+  <updated>2026-05-09T15:59:40.734Z</updated>
+  <id>https://andy111-oss.github.io/aiai/</id>
+  
+  <author>
+    <name>aiai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不要说话</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/09/%E4%B8%8D%E8%A6%81%E8%AF%B4%E8%AF%9D/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/09/%E4%B8%8D%E8%A6%81%E8%AF%B4%E8%AF%9D/</id>
+    <published>2026-05-09T14:29:31.000Z</published>
+    <updated>2026-05-09T15:59:40.734Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt"     data-hbe-format="4"     data-wpm="❌ 小笨蛋，再想想哦"     data-whm="❌ 小笨蛋，再想想哦"     data-salt="6665e086fcc62bf32e172854681eb2c3f7a3c7a1034eee0e190619ce3ad17140"     data-nonce="81dd062136018f5a3e7bbb4c"     data-kdf-iterations="250000"     data-auto-save="false">  <script id="hbeData" type="hbeData">    214051085ec02ee69f0b15aab651a1f9722c15423ac39f220350339d43f813472f50441a746ad614ccf9949185017604e37065573f397dc4363a78ef41435ec003d41fa4238cd820ad23aff60244c4cb5ef11e3d410aaef6b567b0c297ccad999f72816595ad9c2ef9ef872f123c52495a5ed37f8e9fabc85c0cc3b78aea00ac16f4ec8df485f0245efa8491cd4deec875c4838f5059add659602c9d78bae056bfca84afc208260db32d432029a0e6bdaa5b22d8bc1e47c5ab3dd8845c47a9959fc2d8b027b3cbe1af4a772854b6bd855a789f3094598c002bedcc24ff65e1f11e1a228cb8f02fb6ab90772db262637d76f61f43c360f052d5a319a7d0ce336d1ced0df78bc0682e2ea67f955f8ed0e7f1948e591a1e1b7beb69052e9abbd1a1ec6c95fa40726ba6942c946384bb6f44c93438fe975e7c9c194a5a88916b4cb29fd5a149095ab3ddb0656bf0c48d91a181031fa850d7cca2e75f8c53c0aeae7cf58ac28244cb05b351a5024fbd6d68ad8ee54d0460ccdee44f23e38cfaede28f82788e13842de601bdc6c5dbb8ef1d8a29798de9dc5a52cebe999a2e4c0a5b3fb53c2f8057061a113d2a28d6ca2d7a113ee9a067d1f27a2c5a95bf75109c28fb9f1c8e1f2a44e2d082a4cc3d2047fe42e1293b4e7f7c7c4d39d52a7814652fc57a24be0f4853f8d7fb3f7998f371fa9cf03330f11b26199c88bbff16912372a6b25cbc2f977dd49f9684dd8291237b01a42e39e9cfd0deae173da9d32f8bbe94ea0a606e4b7377949e3798608ea181828d7d5c4d68c639ea537c3f9de75c6cf35abcd4cdd8d23c63d09fc0bab9cfe9279e2bb6ed8baa1f5f7beb1c8298590f65398dc22f39921c70cf49be276af200e5b84d1312348917fc788e3fbb1d299f1cf98b6156f59479169fcac7f14646e420b1301f7e4c5d033c8aefa4900d555aab2fc306a278e9ad779cad718f2c271b2cf3259a087601675a09a4033899ea2cb10deff233dbd178e356e3b80e1522572205509c70c8cca56d0422ddb288d571b3e020dfc2926e58f0397fc13faf5419540312e79b3a70978a1ea14935d6ce458fb1c264bf2a1e3f8112784cc36e82e0ac44c2373e1e39908c4323561555181e5ab66df5981b54db23038a6fe1bc119feef4400089a3b98853ae5d9e416abadba68b5dcc0375ba4e267d9c9c4809d3cba8954d72f84a50672c190480cc86f2b6c44f94553a2c9934e2c9974a2913b1ced7152a9c1904ed19c5b077673022c7551fdb970578b6b1a82f5eaa84284a98c89e52f4cbfe5f017440d91b2dd485d7cd8946e822ad3dbc9014bbb993c2f3fbdd00d7ba03893bdde34296d26efbf7838d1259abb3744e35d816965cc1b0b2384277c2751ce2cecc59bd1b55c600dffcad20594ecfe52f592fc7a6364f6418d8e32b16012d93edc35cacfce3677c9bfc83a65d1aba9f2e889efbb2fb7f6fc063e76779c425096d9a6d19afe50d54c95a5a3783f6f00c03180fc5d7d2cb281de20a860ac4d8ed27ddabab2f3627737d0adc4ccb08d627087129e1c5f1b35e82753dc4aa460fae7dcf6136f2d765fd50d091a97480ac563d196cdd7a8d66cc1a7fd98bb58a89747a3ab2aa6602e5f172feb7cf5c6dd760dd41d843996e8b26bc84bbcee0c2e9832aa6903ade0c9dad0e7aa49eebec10bc0301006e39c38d2de0a54ecbe894bccedd59dfb329eb7a329b6dbed7293ce452bfdf9ac394ec939ff355d472a63ea61678856e7a8b51ffc975880388b8a3fe17bb529ccf3a6aef21c422345064059b4e015fa5906066b899943b47407d8097f5d29cf085d29884357f61a4fa6855780e87965fbc063a87825d0165b34a39bd8e11c827902222a56bdfaf8bb5660831e819f3e5884a3de958fe81a975b84f9e383ee08a2d89ee830696a738ddc718c0f1aa65c3f623bc1a219a099bc1ff9c20aa92490eeb7ef0333a1df21ee31a36e2b0928ae727a8cdb036d667ecc2702fd77627580caa80eeaa7629fd127e571f98a855a450b2a15dc350ddb9784e3cb49d20943e341c44fb3032b5976dc161247154078b1f68cca35412121e17d4ad377f70446b23f08b7327bde9cb3728baa4ef648414982c79431c266fdc79254db66aa27551f490b0f1fd93b50841c7323eea7a6a0619075e833e807d3d839e60a3aad2c1ad1555ee322832c5a7737c7d2fdaef7dee2ddbfa039ce9caccd335d4d542a1794dc046f27160fae1233254a8d67dd89a43db6009a6d8dd80136d0fa977188208df2163f03fbb7cfc27e0de751665a4d091acfe71eef658cacca089ecf6ceea9c5d66f996c5849edcd8c493ffa06bc70291af1515245fe6becc9e13f2bea7211a27529bd81831dfe16fd304acfb54abdeead9a5d98f72fc541a9788d79f520c9fa4c8bb5bb211ec212836e4c745bbb1dcef9b79623d3d92fa26dabe2f3be4f92436cfc4429c0a59ad51aca7272f384b9ff964d11fa186588f6627158f8089c1ff4a6f3407fa6228e1cf5d35738a491b2886b9e51ba56e1ad9a74c2d49e1a3d9b514cb08bfbc7da444fa3234034116ac012d609737594c79961da07721e4e31001af8aa010b17ddad7db1f5c46efc64868a8dabe22955936b1db1b3b258b011de3481f3324c8041468963b9a3b8e681ec6979b46706f6643e340a145ecd272cef7f7aa402e9c2adb134b63333d6f176b9a6b03c49a0300d726536e05696b83c100d66266150113628e44ad7173d30672ff4d62ccabf743d0cb3c37fff1a2718542c9d9d680bb9adaa0b445926fe5f366b2381a896bc5e682751808d881aa76ed67d08581f18cc99a01a00c699f7469d6929308c78e98b34fc80ec9e9c4cffb7cd038d2afb6bd4c7cd1cd7177f4d91548c26bf13f5ab4b26c14521d7a77f1d063130548bd2f7cce66c7eecd5b877291350ca9cfbbba41e9844bd46df66d7d03664de38e59d4ebfc723aa77661659a5dd4f2ad7447ba4509769cce39dc3d5afd85a0dbbdf5ceecb0ea740143fac1eaca3ace72d9a9b150158e2384e825b0be3791e5d57ba8f789bf77491b90b25fbbc2dd890a7d7c4c5aa7844f1c74b4855cd83cfa8c9cdd70d08ef0c8edd707dbc494429718b3f685ccb706a255c2bc6113816088a27c9a539bd23355d5fdfe3dccf655557ab78bdcd412c58839a4d60e893d2b323095ee578b0aaf47604da4918f2bb07d4a55886ec1c07a537a42ab0c6ca2ce649f858ffac3ce1099dca774344df724f07e0c5b4ce6e291e494817c6a61aa82fbcf33224fbc40144cd8c791abac93893f4c7a12577ff53efe602e017366de5d6296fd70bde21eeb55bbfd9a1fc7251b7291038375e4a02f069a5000168f51a3634cdba3f31a5093eb80b5d90822af29a4c921108ef093983034303d5a1b85c0449bbebbba2aa4ae45c4c629ae2fd8aac739326a7284334f4da2506c070a3f35055c65ab3bad6d4ef4f3f6ae85c508ae43c3ab596b53480a49b7fb4ab7c030dd231e861098ab1032124ca1d7a174bd81e96b425e153d8f0fc6263b273f75325174ab1b0db31cc9af79d28f8a8dfc0211f29dc278e142cad0e7e6cf0f6518ade8b48bfbeb2e7da41659c57bd8d2db9262f2c80ea7850516519d22fb765631bfbe7b58feffb957c0a7f62b76f82815018bdbb23fcc69b2d9084c913914e82e7216106a86dd5b221df27dfd1815c7cd9de22bdd42cada1f95856aa2fb32f36f03bdb8b6bdb328a9921bc5b8bf3a7be5bde898be83c7b06944fa0e4f567b80a6876e4b2bbb288b1b9d600f09f32fa93a3340d0b9e5903491d5e42b9fee55ae34fef80f2274df4042c28bd6791f11b159860e8a430643204aec4c10c72883c8faa5c412af4e06960bff4c49beff3c0c9d26f00682b35b352630c1db5932ef4385d3e46c41062a3dcae83266213fb14667ce7c74c4dea9bca86b65b6c3e4972b438bd3fd930eeaa74c9cb28604bb52a6392a2ba68a0d0be3335b2cc5aa23d1df1462eba580bc948578fb67103e03147c0b559959d22bbb44cd3c7de02123ecd306ebff9bbbcd0510d917ba4360b065e69949b804799a33d674a8b0d04fc539d4c5055b78d26dfd76516ffe8ae9adf95cec85dffc8af2961034e6df52bb273def067e8caba15b517f083a91a9100dcc34608df4ab24fa55e4e3950e7b505d99ec450919461cde412c11c2f97d50e884278ef6a2a340743d3e8188ac03cca89129784c5e1133a08443ac26bf983e9d889e027d97ca2885d66807bdd1e05ed5ba5bb6679444928f3778c5c5d9bbbd7ead8d3065653d32c6e1abc59118a0160bbc338b63a23d5b5c1abfc977fdbe18238b9e7295377a42d7fbd1fbb692a91de11568e7046bb01c79601f97a57839753ec608245404c47d55d7f21192fdf65bf08d4d02e85e002315622896a2e0ff45c799ceb245e7ab181c29ac01a93e78f2bb214fe5dbb7139170e943f6ae152a340daf0fe4860f636d3d0e5acd797bc4cfa2c5c6cf3745ba622646842394efc519b383c6a25eeac2415051efc9ee196bc3f300b7060758ef8950602bfef534ac67eb9c3d62bf090393def97ba9075b3ba00eba7be2a5c249b66ccd6ec9b2d9839f9243a3215f2f0a42cdedd0dee03db7a0dcf0812b59477ea481f9338d1d2d3aae82208d0cf410cb636ce72dd6f7492f439098748fa305d0a6beb00841f98283b49bdcedf48bcafd8a9850baceb48f08fe57e6e88d4335a6e90fb685d27a3b28d681c94a1ef37303b6159648044c91cd2c27607fb24d440a2e2ce2adabd8a521eab38dc13ab507a91ee32e9d64c30b1a2f8872ef271321dfa326ac78c32fe0ef2888ce104fe92d2526a9579e214fb05c74c1c38600b259579bcd5a54861b142494c9b981222c6636ea2797cbed0905020edd6dc300151aa42ed77ba4e9262bb24587fc16a18ddbb2d334e9581529a31119c468c11daeb81e30dadb924128a9a2a2615515c042c16bfdff719f41de8f3b54d223b6c6ddd83b4e6db43da81ce6751520143a08295802ec4125709626828acbfd8c675ba3d9b1955b1f6817a2f2110c2ba3ee58c990f73a0c983deda19b2e3abaa034b91c17b24f80e490cc37db24317fcd069a933bb3b29de8159ed6d2709657f1412daa470e0592c23c081da3538679a91ee434153fd5611097876a4d60fd65b26c071551bc63293e8719873d6359c2527e056e6bdb9be45caecb75e83448e6c1e725557c60668db00bb1eda910aa14cf191e625a4d4782418d7f79a61bcb3287fa2e1c8127bd88ed23ee02b7a7e18e279f3fd16985ec17d97b28165b414084c383d1c7cbba332c9c1f1b3a20e901c85c01632b381fdaf3abd76b0052f950d546af781b06dc6f98da7a67f45448635754f2686f4c99baa364c8f7effd50b092be90dc58c68b8236318048fb7333169b7858c97aca6a5bc866629034d0494afb26990f2d3be0b3a3667b699389caf51711c9c55f15fd80f2638b6f0590b7b0b7ab67b38946de874761661bec0afa35bc217b96c10e1642c71db1f323251ea48c76ba8006bd0095028ce2988e4879cd3bea982f4d25ab3e7bd1d619f7f85a16f9d3d682b74caa77d5d2faeec160f81824b1b947c7cb11d0fb7ffcc16d38f6b7efdf6078c53d326d46a220ee7edbc05aa7ecb01c2aa07cd65829a70b0318bcf7a920994823f47bc74af25f881d971c7d9804d36d03265bdc14e854f4b3986f0abae00aa8f850f18eb1f48436986af5392ba8f180a63b09c2fe4a00d656b6246a636543745cc20629d98317fb97b04248fd7d9fd3d3aa508db526e5d389089862abecc252f8243c794bfbe44af666d720304f9670187cc090b615d396d86f2d706abb6a5ee9f166c096ed19a61e6b23532234c50f54a420410d0f23076e61f8842f815d2864af135fbc75cef4cff46e431b46bcb7afbfbab43457b860e632cd5a9bb7ec1d235fb3e235364ecb74870e5143dff54e9089e1793107a021a4eb386d7cb76ef8a647026ef9a069f2374c7be8da16149c1015874566e098e69c784e57a61682cb647397ad1ef0568ad0e62102abaa67f8f42a2c35348ba46e1631d59a4eb61334aa3c42b32c9e866ad043bc3572d32b1975c1e02b98c5b833b0fee14e5009ae58b4589b292ddd78a6d071bfd9fcab68e15bf66f24d5997e23753bf12e23a0911d5377e0066860fa6607b924f1f90c79caafec2781f67abea1a0f0956db6e58757c076c5859e3a39d5855d2751e89e9617e315945dcb32a127656a7e5103652482e0dadeee55b5f13a85786193568ba46f33b968a10b52fd58fa712a31cb1cd27c833cca039e4eb64a60ee188c5e0954e8f6de91ad5ff661d4bb567bfdf2aae71bb7a7ed42a435672f44940d485f805bd2b84d6b22bc2dcb0d1d6b8033fe076238857cdee5472ef1b33fbe1542812d7cf64dc3dfdaaff5b62da17b1aad29121081f3ef432a0e634cda649ca4a6495b4971f308f0688464e0edc54b0b34ab2be6f4f85d603ad24fa247e63c84a0875efcdee33d5340c91b83ed10057aa734e4c80e9e3206b921b51abe40e2f2d9bb7def36412f753a3a30ec01a1343f66a92c842921497f92517773df7d8e3fbbe9bb30f03a9ef3bf0e8a99bc8b0e80407bae676f23e81d475301a16d6b737c80fb6d6766547446b0680b1f7c48e5f28d771009bdc6fa3d1bf1bf172ac3e92895cf1745e6d71190b63baf91d0d08116cfb1c0723b583fa1c996dc975119234d044e11ba531e9bb017a255106e423bad09053fc9dd59b330094957c70ea3d0983e8130fff39a7ff8ffc0f18da6972511b8e3f94175774f4d8c51e13e4ade528d20577737370727fd229716110d1600d09eb19d56a97509da1c32e732e1757f00f55f4b01a650642124679b660f854d5e145e0857a0e0860b339f3c52acd232e748010d4f0482fce50544ada2581dde43a26372d676abaf3fa9ecc0c87c1713cdc2ab63be22591da045f2b69674a1ce8c8fd15054cc410ac454575899f161d8aaa7842c6dde616bccb9b113f137d45f4a7192a94bc01e6ff24fb1b51567c2602b3d41d4f4fcff56dd72b715b3499d9edf5e600b7a27075845f4eda33cc77ff5d9b03ed4c23cb26829b9762a8955a6de63b22c2359bebe11b5909296611da7412655464133c963507d6ff9053fb97bfae21a3217246e85f4a0a2b87be2754e38d75afa6b40a24f1e902322b20c3ddaa4ac14472c08d9f7f01b14c408660129f159bc1a460ef8a79202fbf2818dd73675cea0814b6f33eb833c89d55f202263868dd58705f7106fff33ad1e5fb64dfbcbd7d67c20a762dd0bb4d92d8ecf586e37a3343c20e41cac7dbc69a131d77ed1f0b44ff5f260648c3c246ab64a1d070f4c3f7ff6886f7b297b290a0e7279edb02a024d49204945eae43483dfa0cabced8436e33f402d8d0df387eabcbf6fdfe05681b3cc8f4fc3970c220bf928982eac30ac2ba91a9f08258bbec59551f00b4bebb455a1141bf60d20d1e7343f75f953bd8664eba62dc590655d0ee814868669be449971dfdfc47683e55c11dbefe695cc256446417bd4c4e2d6d35b6f127c148553a539192e8d95c8882d4de0e604d8f4767bd032c91545cedbd412a4bdff4bf45f5dbb1f1f1ce3a6daa57a6d826984add9462b1e0073125a9b0571fbc3084ed623e2148faa2f9a764fcecb9d7a11c95c1899a8022ca6d19f7d519bc6f3ba7be2644a19843df1d892d9f30293040fc770f8109582008b598fe74e2059d6fc070edfe0b018197e058aca4536002be26fe9f2fc519de7664c1b2b8251fb9a3c8f11ba148813cbf75dd20cbc9d028ed72de7cfa123f6a54cc4e777373b9d122b3844df81ecc0bbfdd6f41a1cd13a976220b7872bbcbfbb3d39c5ad7f7583a14fdae0082301607f943b024255e8e0cf355cc33e3e68b1fad094e46c7a88efe87343109e1a0b6abbe62234d6b046272a320f76a284b658e453875504c82a7d952d46b27129cee9de0fd37979311158e0aa059289f5b73942a8f8a66e489619d520c8160824f01892c453ed3a41933c3ab207b35bb2e4d128916f94b7ad487a0048e9bb8fd7ce24f1427f2ba7c9639ac279e76f49eb2112edc3c3e3c70585ce06c1457c4c629da6bc9391ecb506a314c1ef68556bb1130e1a247dffa496c23b94b9d94b1c5c0475dfc72034a9cd9aed78cd17d1234a9cdeeb6ca2d9a8f9523637a8bc7de318c20c48fcc3c551729a81573b89e519a303168228beafdf31a44c4227813a6ff7bb61d34993f52a8e0b039fca84dee185d174d97b388c558324a767beeb3a9861b421b99b2821e2dde5c5169577eea9b573b63842605c4a1f0883cba18746f11d50eccc569c0ed1c7b1cf4317f005d52533d21d1f812a88667754379bf605d0463566c544dcc6349bb8d6c4762c158d9d6e85f13cff9f962aafeaef836b1cc47e22316ed8b56c563352f85bf543b9611691690394196da27796f1e9b1af26da677abaa4ac4cd950db472d18979c30dc742977becb1766514afeb4a530715666570117931c1846d8  </script>  <div class="hbe hbe-content">    <form id="hbeForm" class="hbe hbe-form" onsubmit="return false">      <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">🔑 看了别后悔：</span>      </label>    </div>      <button class="hbe hbe-button" type="submit">Decrypt</button>      <div class="hbe hbe-error" role="alert" aria-live="polite"></div>    </form>  </div></div><script data-pjax src="/aiai/lib/hbe.9a88ff0505.js"></script><link href="/aiai/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">🔒 不能说话</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的随记" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想你想你也能成为嗜好</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/08/%E6%83%B3%E4%BD%A0%E6%83%B3%E4%BD%A0%E4%B9%9F%E8%83%BD%E6%88%90%E4%B8%BA%E5%97%9C%E5%A5%BD/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/08/%E6%83%B3%E4%BD%A0%E6%83%B3%E4%BD%A0%E4%B9%9F%E8%83%BD%E6%88%90%E4%B8%BA%E5%97%9C%E5%A5%BD/</id>
+    <published>2026-05-08T12:59:32.000Z</published>
+    <updated>2026-05-10T12:11:27.021Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt"     data-hbe-format="4"     data-wpm="❌ 小笨蛋，再想想哦"     data-whm="⚠️ 还是错了，再试试吧~"     data-salt="f59af9515f22f895a18b9693f12b3b6e61e2641c2febff047829c36ec3887150"     data-nonce="471d3071a028bded983b3721"     data-kdf-iterations="250000"     data-auto-save="false">  <script id="hbeData" type="hbeData">    326f22cf0642e1839c54d7894791b9dafaad1e0f4627840e18a80759a84d59c0119276975d97f371a33be03760143e901d1fbdfd27d51c884681bf8256f2814591985daca7d017596d3f438850a3cd8f7277c52d5dfc444f3edb3344a12a11ed51fad02919a75f34d66cb106c863d84284ae5ab1c3d97b436407af4d34cc82c6caebc4995ee2fc6948ea015c5fffaf3a8db995bbd8c1eb15ed7249f1dd5c6b99323261281f4c03bb91787f1e8daa9cebdf0a1ad06c9ada3971caf764ef38c56e37d3ab95b9f77b0e1593e5d409bf9be45327d097ff00da6d40f9ff14e93153345d2f0aaabfaa465bd156c8ecb441196dccd02709ee9a0dfb3ede9292093cc5f8371ba628415d011b7b58de21b7ce23d5154dbfb5fb096ef88d31f70698c79699cf4ff555ad3985c956e8ba34579bf9f7635ed99782bb88211d63e2b6c4d550dfe3209cab6dfb5a73b5520d777abc00d6c84e36983186a61fa8eb1dc8a114db2860e032c68fabc54e86002024dcf08a3dad9de5ad4c45f12446ffb3688c018134d77651fab1e258a899fbbd865d965d38727bb734d753e99b44672386ac18dfb766f25dc3250a33460c9c0d68b7d2a3337929ca0f60c3f7250f67624aa1be91be03ae4a6173b65e9b36707e08324c48aeefeff475541c7e871c62b370108b6080b45e47702953b08de6b19ef286c2ba92cb32e429e4d6126db810d3b441d9c196cd23323d6c58d07ea2703bc2257641576b5eb930d59486c24245897cd2a85746213a3d3be6c06d6470f19adaa1ee809edfb4964bfaf8f6f60318defeeea457ca8ecbcce355e70d3c0af3f721523f3c42bef781fd419c21a61e80cddf549ef5a1cbeb857228b2f32c152f5d862751117fec0e8f04e6c34e542c8a256beba57f3ea68f52aa65b933e9cc8aa700104e73fc9224ab81b13d3cde2df3ee60e777d231e3f9872b14c714ba5ef6eae4abd64070a52bc78a32f494c256cc2e718e7dbb4d535e9a0e792cf2e922a032831e5a800ab90a758c6ef46fbd571c6f0530341a40207dde009ee6ca5837176a1c9a54d74db7328ffdf8a9229332fd49602f02e16898af455381136a0bf0f345d79770695373b4414acf05c302769b0f8eaa03cd66557707ed9ac30c311665ff949a54893d376dcb419aab18f52791d28b7e0229695d706395891c2857638f95a02dbb7948a2d2966ede37b0f0237be137269096e44f4171713c86330db941beb15bce39cc582f3f09c66f3e45df02  </script>  <div class="hbe hbe-content">    <form id="hbeForm" class="hbe hbe-form" onsubmit="return false">      <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">🔑 芝麻开门：</span>      </label>    </div>      <button class="hbe hbe-button" type="submit">Decrypt</button>      <div class="hbe hbe-error" role="alert" aria-live="polite"></div>    </form>  </div></div><script data-pjax src="/aiai/lib/hbe.9a88ff0505.js"></script><link href="/aiai/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">🔒 给你说的悄悄话，请输入密码查看哦</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的碎碎念" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想你啦</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/08/%E6%83%B3%E4%BD%A0%E5%95%A6/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/08/%E6%83%B3%E4%BD%A0%E5%95%A6/</id>
+    <published>2026-05-07T16:11:00.000Z</published>
+    <updated>2026-05-08T13:50:21.887Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="晚安乖乖"><a href="#晚安乖乖" class="headerlink" title="晚安乖乖"></a>晚安乖乖</h1><hr><div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">   <p>夜深啦，乖乖还是没有睡呀，刚刚还在怪我没有理她，如果她知道我在给宝宝弄这个小礼物，她会不会开心呢~？</p><p><img src="/aiai/images/%E5%B0%8F%E7%8B%97.png"></p></div>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;晚安乖乖&quot;&gt;&lt;a href=&quot;#晚安乖乖&quot; class=&quot;headerlink&quot; title=&quot;晚安乖乖&quot;&gt;&lt;/a&gt;晚安乖乖&lt;/h1&gt;&lt;hr&gt;
+&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow:</summary>
+        
+      
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的碎碎念" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你啊你啊</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/07/%E4%BD%A0%E5%95%8A%E4%BD%A0%E5%95%8A/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/07/%E4%BD%A0%E5%95%8A%E4%BD%A0%E5%95%8A/</id>
+    <published>2026-05-07T15:36:25.000Z</published>
+    <updated>2026-05-08T13:50:29.644Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="擦干眼泪拥抱你"><a href="#擦干眼泪拥抱你" class="headerlink" title="擦干眼泪拥抱你"></a>擦干眼泪拥抱你</h1><hr><div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;"><center>  写给艾艾<span id="more"></span><p>你还太小  </p><p>有点孩子气</p><p>处理问题也不周到 </p><p>人情世故也拿捏不住</p><p>看人也总是看走眼</p><p>在这糟糕的社会，希望你能顺利些</p><p>我心疼</p><p>更怕你受委屈</p><center></div>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;擦干眼泪拥抱你&quot;&gt;&lt;a href=&quot;#擦干眼泪拥抱你&quot; class=&quot;headerlink&quot; title=&quot;擦干眼泪拥抱你&quot;&gt;&lt;/a&gt;擦干眼泪拥抱你&lt;/h1&gt;&lt;hr&gt;
+&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px rgba(255,255,255,0.8);
+  padding: 14px 18px;
+  border-radius: 8px;
+  line-height: 1.7;
+&quot;&gt;
+&lt;center&gt;  
+写给艾艾</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的求婚日记" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>呼呼呼~给宝宝的小礼物</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/07/%E5%92%8C%E5%AE%9D%E5%AE%9D%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/07/%E5%92%8C%E5%AE%9D%E5%AE%9D%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%97%A5%E5%AD%90/</id>
+    <published>2026-05-07T14:21:40.000Z</published>
+    <updated>2026-05-08T13:48:09.160Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt"     data-hbe-format="4"     data-wpm="❌ 小笨蛋，再想想哦"     data-whm="⚠️ 还是错了，再试试吧~"     data-salt="31ffe6a772d30183420c32738a6ef19a1f0cfc4901c99aac3a0ad496db70bdd6"     data-nonce="0687e215e61457c4ca598432"     data-kdf-iterations="250000"     data-auto-save="false">  <script id="hbeData" type="hbeData">    e8c8c34156f8feda27f27c1900c2f220467cfbbbb53191d704410ba69624c2f74e22678ca0c9d9954a69c59550ff2b4fcfacdd0e01e1262b80ae71af3cf91e58e23f20e8ec9f4c9132ba6a8733b0be2178db3cb7f03ac92364aacbefa5abeba5c4dd4aeebc536b441f1e01cd7f9d3f3f9002f7bddc955519869aa949c8bf23d52f23745026be13992d1e55c6cb6849a197530ffddff97945ae82e91d058fadb383994dfbc0f43af12432c4f9866dea429d93b3236770c028c0b6fdee3e64ec274931b377acd71d6ff11473cb3a48bcfe50ff9ef160cce7b0c095a6215a0a29b4803d8ae7501270b172e64dfb38be3ffa888cd93a392e6cc52ca5bc8b4b130778decd15ee4d55a804a4e1d1cf264213c511576977f38d0222767f67247291e81f6c9e5b81ee836fe09350b4db6e2a21d830b3e2a240d29a679509b80a17634f92b9cf13d0273032ccbe75ab1cf8b6ffc10c92c615860dd4720bb6ade1b8fe8cb252f11f24595d3b2ef01336be0b1665ca94303ff4edbabe78f57617f934819af49c176753d3199cd2fa62d9c6a51e265c0db4626ceaef1370e8e9cb519e509f0c66576bd35817df2637676ff725351f62f7911e53c633ad2fcd009e8a9015966baca62a3cd5e3f26fbf8ba38913985eeaaa1620c7ede1dc027e0ac491e80d0caf43a70aeb55703645bbac4a4698b0dc0bce63221fdfd758ff93169bd79bcf66f52b0facb5e60ad0ff3f68f1b4be427e67d222e9730461d2f181f1d3ea940f3d9f5202c9db5d9e3693f7aa17fe7388ac83961244930e7a6ee13ca43f3cb9b8ff055972538e593da1745e613b9e919264638557c9f75ccc277d55f393279ea1e382fb0ecd541e08d3c5bd6f5d35df85699259a3eeb6e0a9f2e97144ea85f0afe308c80681be12951849643e50498627334f2a65ba88191dbaaf2d0e6df26b6c9c18c55cf3f8246f3cfc74faf9aab30b014e752b5fe4d824d2bd53c82882af547616834f5fc6c768e7a411f969900e832abb55d9540e9779c9649124d4f1e023327e36a33b9b47df22f7c8a7e6f5dec1d2e207f8824b9bcf3d485f183269ca0644e4d48dca4b0a6a36c804f90aa5dd75b7787f0f98e64f65d11fb56bdca6289cae72de81863872493d7491f93541673f89f31ac9c585e994eb7ba7e29dd3aa84de09a3941f9163b6383fe50fcbff9546f231b085ea17caacd0a2b7d150ea0803544e9a331a96ebed738ff03e75da4285a150bb66ec80378d550aee7a0a899a93b3fcaf89dded072b194a6ee6d9545ce8e6af21052b15114e03067903c7c5f3666bc4aff8feee4c8272fd1acc3235a4f6dd7e52ccf9f28295fe3ae854bae7eb85b6aba5b2426458e5e0983c1bdba806e567ed95217268b721a9697d946ec7cd7d44690d771eed3844a287bcd682e7bf91948d0b533267da57bf848e22cef7a896e01bf0631f737b0d937e2d329b950133de550f01c6abadf2947ebb05ad19f7ecdc9f502efdb135f000392fe0fea84d27f2572ae9c405ddbf652ea52e021dcfd306a94e8d2e0bbed4464e9ee6753bc4227926930c22c77c442d672662becbcbd2e21f8cdc93184138a12539e1116232268aca73fa1f0f9b08c707035584b1f1a38bbcf661759c3c26dc4c85997596309d97273108cd239ae652a8c3c3f412149c2ad27ce613a4973e8e4980c4c03daae55269bfb26ebd641e6d96d040dd58fac2d1240107f2b946de1336391ec73a04d1c018ac7d41913b2c31c87eeb3967fe0f05fbcd8a1c049e25c622086cce31742802c86da46fdd796ccfc42fe5536fa76057f08ce0dc10861d3035143029c9bc56c2a3d1bbd9c9a75c9e1057ee28b4153289ce1a808222f734ae9a6a41dae0a26b155ba6806c567cc9b1182abc5895cff081ffbfc2cafdf2760b5413cec0c6ce137c55e22a728da6c90d383e53b99dd8cc809f9b8e77f0502b080577f176511a2e10e4a1534d4612b5cc3b0269d310  </script>  <div class="hbe hbe-content">    <form id="hbeForm" class="hbe hbe-form" onsubmit="return false">      <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">🔑 芝麻开门：</span>      </label>    </div>      <button class="hbe hbe-button" type="submit">Decrypt</button>      <div class="hbe hbe-error" role="alert" aria-live="polite"></div>    </form>  </div></div><script data-pjax src="/aiai/lib/hbe.9a88ff0505.js"></script><link href="/aiai/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">🔒 给你说的悄悄话，请输入密码查看哦</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的碎碎念" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想你、还是想你</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/07/%E6%83%B3%E4%BD%A0%E3%80%81%E8%BF%98%E6%98%AF%E6%83%B3%E4%BD%A0/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/07/%E6%83%B3%E4%BD%A0%E3%80%81%E8%BF%98%E6%98%AF%E6%83%B3%E4%BD%A0/</id>
+    <published>2026-05-06T16:14:11.000Z</published>
+    <updated>2026-05-08T13:50:27.807Z</updated>
+    
+    <content type="html"><![CDATA[<div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">总是在很多时候想起你，在路上、在工作、在发呆、甚至在和你视频的时候····<p>想到很多关于你的时候，我总是感觉到很幸福，甚至幸福之后会有些害怕，害怕这幸福过于短暂，我抓不住。</p><p>但好在，你一直对我说，你是属于我的，你会永远爱我，我波澜起伏的心竟然有了些许的平静。</p><p>我爱你呀，艾艾，真的很想你。</p></div>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px</summary>
+        
+      
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的碎碎念" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ai的271天</title>
+    <link href="https://andy111-oss.github.io/aiai/2026/05/05/2026-05-05-ai%E7%9A%84271%E5%A4%A9/"/>
+    <id>https://andy111-oss.github.io/aiai/2026/05/05/2026-05-05-ai%E7%9A%84271%E5%A4%A9/</id>
+    <published>2026-05-05T07:43:13.000Z</published>
+    <updated>2026-05-10T06:16:41.826Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="You-are-the-only-one-in-my-proposal-plan"><a href="#You-are-the-only-one-in-my-proposal-plan" class="headerlink" title="You are the only one in my proposal plan"></a>You are the only one in my proposal plan</h1><hr><div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">在立夏的这天，我终于有了足够的爱和勇气写下了这篇博客，用来纪念和启航我的一个远大又灿烂的计划，我从未觉得我的文字是有多么大的力量，但当它赋予太多意义后，原来一笔一划，一敲一打之间就发生了很多改变。<span id="more"></span><p>我们很早就认识了，这是一个认识我们的人都熟悉的事情，可我们相爱的却静悄悄，鲜少有过去的同学知晓，仿佛太惊奇、太幸福就会被嫉妒，于是我们心照不宣的经营只属于我们的爱情。</p><p>不知不觉间，我们相识、相知、相爱；我们经历了许多恋人都曾经历过的坎坷，同样我们也创造着独属于我们彼此的小秘密。我们默契的可怕的同时也一直走在对抗路上，我们总是感慨两个人的迥异，也庆幸可以有那么互补的人出现。我一直都在感概幸福之下我能够做什么，或许当爱积攒够了浓度和容量便忍不住溢出来，于是，便有了这个博客，便有了我潜藏已久的计划——我要向你求婚。</p><p>故事的开始是在每一个夏天，每一个我需要你的时刻。青春里的荷尔蒙和自卑交杂在一起书写了成长的旋律。年少时的我们不太懂得什么是爱，能懂得喜欢就已经算是目标明确了，在我们彼此的轨道里，我们都在缱绻交错的行进。我和你的故事在一次次的袒露心声中展开，我们都把彼此放到了超乎预料的位置，哪怕后来经历了许多要抉择的时候，最后我们仍然是各自故事里胜出的人选。所以，很幸运我在你那里是冠军，也很幸运我过去在你心里的位置足够坚固。在那个总是回想的夏天里，你是给我带饭的女孩、是给我买文具的女孩、是一遍遍告诉我，我很优秀的女孩、是愿意陪我一起走很远的女孩；我们在杜鹃河扔下许愿的棒冰棍、在龙山分享各自的校园生活、在小区里约定好的见面、在公交车上并肩的聊天····太多太多的回忆好像与现在的幸福割裂，又好像成为我们彼此身份延续的一部分。<br>我有很多的言语在你面前可以喋喋不休，也许爱的多了，也想让你了解的更多吧。</p><p>我的爱嘈杂、拧巴、执拗、占有，但好在，你给我的爱平静、温和、执着和慷慨；这也许就是我们所说的互补吧。如果太相像，那么长的日子也太难熬了，因此很庆幸是那么如此不同的你出现在我的世界里。我不清楚明年此刻的我们是否会如我们所愿，但我总想，如果深爱下去的话，结果也许也不那么重要。我总有很多的想法，总是不在你身边时患得患失，总是想让你注意到我的小心思，我像是蜷缩在角落里看电影的人，看着电影，也看着看电影的人。</p><p>艾艾，时而执着，但又很爱逃避的女孩，在我决定向你走100步的时候，你计划向我出发了吗？在所有你遇见的人里，我又是否是你独特的存在呢？这个问题你也应该听腻了吧，不过不一样的是，现在我已经不需要答案了。</p><p>我有一个很长很长的计划，那里的女主角是你，也唯一是你。</p><p>我爱你，艾艾，在所有你不愿孤身一人的场景里，有我呢。</p></div>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;You-are-the-only-one-in-my-proposal-plan&quot;&gt;&lt;a href=&quot;#You-are-the-only-one-in-my-proposal-plan&quot; class=&quot;headerlink&quot; title=&quot;You are the only one in my proposal plan&quot;&gt;&lt;/a&gt;You are the only one in my proposal plan&lt;/h1&gt;&lt;hr&gt;
+&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px rgba(255,255,255,0.8);
+  padding: 14px 18px;
+  border-radius: 8px;
+  line-height: 1.7;
+&quot;&gt;
+在立夏的这天，我终于有了足够的爱和勇气写下了这篇博客，用来纪念和启航我的一个远大又灿烂的计划，我从未觉得我的文字是有多么大的力量，但当它赋予太多意义后，原来一笔一划，一敲一打之间就发生了很多改变。</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的求婚日记" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>看见你的看见</title>
+    <link href="https://andy111-oss.github.io/aiai/2025/05/21/%E7%94%9F%E6%B4%BB%E5%89%AA%E5%BD%B1/"/>
+    <id>https://andy111-oss.github.io/aiai/2025/05/21/%E7%94%9F%E6%B4%BB%E5%89%AA%E5%BD%B1/</id>
+    <published>2025-05-20T19:19:03.000Z</published>
+    <updated>2026-05-08T13:50:31.098Z</updated>
+    
+    <content type="html"><![CDATA[<div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">小艾同学：<p>你好，同时也真挚的希望不止今天你好，不止有我陪伴时你好，在我看不见你的日子里，事事都好。<span id="more"></span></p><p>摊开信纸的那一刻，思绪还是很纷杂的，但也总想写下来什么，不是单纯的想让你留作纪念，而是更希望日后在你无助孤寂时还记得在这个存在过的时空里有我陪伴，分担你的孤单。在这个电子信息泛滥撕裂的时代，依然有人会珍惜手写信实属难得，但让我深刻的是你，更难得的是你。我们之间的潜藏羁绊也是由那时候稚嫩的文字娓娓联系，现在倒像是用以前的约定书写我们今后的故事。</p><p>不少人喜欢信件也许是因为它的独缺性，显得独特，也有不少人喜欢纸信是因为仪式感，好作宣扬，我见过形形色色的人不算多，但也不少。有人收到信的下意识是发朋友圈但却连信的内容都不愿了解，当然了胜安慰的人匆匆掠过后便随手一放，由此更突显你的可贵。本应不起波澜的我在看到你依旧逐字逐句翻看我的笔墨，情绪随文字泛滥时，我的内心有了许久不曾被包裹的温暖。而初三你不告而别时留下的信依旧成为了我们故事无法结尾的伏笔，那个约定好的小青蛙也从那年夏天跳到了我们都以为是玩笑的真心话。</p><p>故事的开始总是猝不及防，两个好像什么都不相关的人竟然因为我抓作业这件事联系起来，在我的视角里你好像很倒霉，每次只要我想抓你，你都能毫无意外的在名单里贡献你的名字。最开始你的愤愤不平也让我足够疑惑，但我却没有意识到，我们的缘分也悄悄转动。后来的记忆也因为那两年你的存在而变得明媚起来。年少时的感知是青涩悸动，但更多的是隐藏与压抑，我的性格与班里的位置也许注定了我没法大大咧咧的去和男生相处，青春期的男孩子大多粗线条，口无遮拦，举止轻浮，因此更多的时候只是我一个人，你的出现实实在在的影响了我，我们后来的熟络与交心让我愈发觉得原来在这个时空里还有能看的到我的存在，无论是那时还是现在，我的确无法抵抗你能接住我心事的诱惑。在你那里我确实可以做一个没有标准，没有面具的自己。可能需要坚定的关系都要坎坷一些才显得可贵，那时候的你确实心里没我。你只是把给别人的倾听与关切给了我一部分，我就已经沦为你的信徒，那么些年你在我心里位置的确他人无法比拟。初中你在的那两年是我可以依靠的两年，我们一起谈天说地，一起去金三角逛吃，聊着不切实际的话题，不过你的话题里大多有他，有时候也挺嫉妒他的存在，可以得到你张狂又毫无保留的喜欢。我看得到你的喜悦，你的慌张，你的无奈，你的局促，你的不安，可是我看不见你对我的喜欢。</p><p>我们最像的一点是偏执的认为爱可以超越一切，情谊可以比任何事都重要。所以才有了后来我为了体测在上完课后仍然在土操场上加练，而你在本该回家的时间里陪着我一起在操场加练，两个人跑的脸红脖子粗。才有了你总是可以看穿我的情绪，我像一个只知道吸情绪的气球，是你一次次在它涨破爆炸前帮我放气，让我不至于失控。后来也有了我们学着演义里的英雄豪杰，用冰红茶和辣条在三建的小区里结拜，那时候以为结拜了就不会分开，所以没有不和你结拜的道理。我当班委的坏处就是看似都是朋友但实际上和谁也亲近不了，唯有你，被我一次次抓作业和纪律后仍然在别人面前维护我。你在我这里的重要性确实超出你的认为。可是你偏执的喜欢他，我偏执的依赖你的存在。</p><p>与你有关的记忆似乎都是明媚的清晰的。厚重的校服，繁重的学业，嘈杂的教室，需要抢饭的午休，暴晒的体育课与什么都可以分享的你。现在这些记忆的深刻自然多亏了你的不告而别，在所有知道你会离开的人里，不包括我。我仍然记得那天你拖别人给我带的告别信，你在信里的洒脱与坦然似乎宣告我们之间经历的像是我自作多情，我当时记恨你吗？我似乎有些，但更多的怅然若失。后来没有你的日子好像确实如我所想，并没有如你所期待的一般可以自在的与别人处好关系，也没有和喜欢我的姑娘在一起，我需要的，更多是你的存在。值得庆幸的是，即使后来没有在一个空间里，我们依然可以保持主动的联系，在假期里仍然可以见面。犹记得你离开后的第一个冬天，我们在你家前面的人工湖那里散步了许久，聊天的内容自然是记不太清，无非是他对你又怎么不好，你在新学校的琐碎故事，你还带我去你的学校转了转，很感谢你用这种方式让我又参与了你的世界。你是一个认死理的人，感情上我确实劝不动，不管以前中学时代还是大学时代，你对感情的偏执似乎只有看到你和他之间腐烂变质后才有理由放弃，而我唯一能做的只有像你倾听我一般于你陪伴。</p><p>人和人的缘分不是一场不出门就能躲避的大雨，更何况，早在此之前，你我就已身处雨中。我们之间的距离忽远忽近，远到高中三年就没有联系，远到大学时代也是偶尔一见，近到后来每次和你见面我都慎重的像是开会一般，提前一天准备好着装打扮，乘上一个半小时的公交去一个不怎么涉足的市中心。近到我曾以为关系会如初时聊天后的喜悦。如果不出意外，我们之间应该会是两条短暂相交后快速分开的直线。可是两个相通的人又怎么会草草收场彼此的故事。我们的开场与发展充满了戏剧性，戏剧到像是早已安排好的预言。初一那年的傍晚，大一断联前的夜里，我们都约定好了三十岁之前如果仍是单身，就在一起。看起来像是妥协的约定里，是我给自己多争取了一个占有你的机会。之后的发展也多亏了那时候的努力，可以让自己多靠近你一点，一点，又一点。</p><p>那时你离开后，我仍天真的认为在这个世界上还会有一个人会看到我所有，像你一般，看得到我的脆弱，我的逞强，我的倔强，我的隐忍，我不被熟知的叛逆。可是事实却是未能如愿，见过形形色色的人后才发现，有太多人是因为你的付出而靠近你，而接受不了你的委屈，你的低落、是因为你的光鲜亮丽而接近你，却无法忍受你的自我怀疑，你的灰头土脸。有的人也许天生就被剥夺了爱人能力，也丢失了感知幸福的能力，太多认为理所应当的人在这个世间打着需要爱情的名义却做着坐享其成的事情。在对于爱的追求上，我们竟然惊人的相似，也怪不得我们之间总有一条悬而未决的线，可是我们两个过得都不是很如意。看着你眼里的光彩逐渐消散，对于一切都麻木不堪的样子，我好像没有什么身份去给你分担些什么，那时候的你得到了你坚持的爱情了吗？他是否真的就可以配得上你所有的偏爱了吗？如果一切都成立，那我为什么看你还是过得如此辛苦。我细数从前，你的善良，开朗，自信，细腻，活泼与温柔下隐隐让人心疼的底色，被无休止的争端，冷漠下的妥协折磨后却只剩下隐隐让人心疼。细腻的你怎么会不被珍惜呢？那个为爱孤注一掷的你怎么会有人舍得不在乎呢？你是这样的好，你也是渴望被人看见的吧。</p><p>我记得跟你分享过那句歌词，“如果我们几经转折，结局一样不动，才算无愧这分合。”你我之间断断续续的关联，命运又将我带到你面前，那么这一次，我再也不会让你不告而别。在此之前，我从未想过我还有这样的勇气，为了一个答案来到一个陌生的城市，面对一些未知的处境。而这一切来源也是你托举本已疲乏的心攒下一滴一滴名为勇气的爱意。你曾说过，我永远在你那里会有一个独特的位置，即使我知道你说的是友谊的位置，但被人遗失在共鸣戈壁的我在那个时刻有了归属。我可以等到，你选择回头看时永远会有我的身影；我也可以等到你愿意停一停时会有我的依靠。我会永远相信那个底色依旧执着的你会为我执着一次，我也会为了这个执着而执着着珍惜。</p><p>海誓山盟也罢，至死不渝也好，小艾同学，和你的相处更需要细腻的看见。哈萨克语的我爱你，Men seni jaksy köremin，汉语译为，我清楚地看见了你。你的一切我都看见，只不过这次我不想袖手旁观，我要参与你的因果，你依旧是我的第一选择，我也希望在你那里你知道我是一个看得见你的人。</p></div>]]></content>
+    
+    
+    <summary type="html">&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px rgba(255,255,255,0.8);
+  padding: 14px 18px;
+  border-radius: 8px;
+  line-height: 1.7;
+&quot;&gt;
+小艾同学：
+
+&lt;p&gt;你好，同时也真挚的希望不止今天你好，不止有我陪伴时你好，在我看不见你的日子里，事事都好。</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的求婚日记" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于艾</title>
+    <link href="https://andy111-oss.github.io/aiai/2025/05/20/%E9%A3%9E%E8%BF%87%E9%82%A3%E5%BA%A7%E5%B1%B1/"/>
+    <id>https://andy111-oss.github.io/aiai/2025/05/20/%E9%A3%9E%E8%BF%87%E9%82%A3%E5%BA%A7%E5%B1%B1/</id>
+    <published>2025-05-20T05:25:04.000Z</published>
+    <updated>2026-05-06T16:10:10.776Z</updated>
+    
+    <content type="html"><![CDATA[<div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">这是第一篇关于艾的记录📝<span id="more"></span><p>命运使然，我从未想过会有这么惊奇的转折，两个人兜兜转转后竟然会发现原来最契合自己的就在自己身边。</p><p>说是命运安排又太无为了，我更愿意选择的原因是我和你都愿意向彼此前进。所以什么是爱呢？我也许到今天都没有特别明确的答案，但我愿意写下一刻刻对你的感受，也许会有我的逞强、小心思、占有欲，也会有我的脆弱、坚强和依赖，但归根结底吧，都是因为你。</p><p>猛然会想到在我需要你的时刻，你好像都会存在，在你那里，我可以甩去一切的负担，只需要躲进你怀抱里就好，在我心里你仿佛是最后一个会离开我的人，但你口口声声会给我不厌其烦的说，“我会一直存在，直到你不需要我”。</p><p>所以，总该留下什么故事的我，接下来的全是关于你，关于艾。</p></div>]]></content>
+    
+    
+    <summary type="html">&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px rgba(255,255,255,0.8);
+  padding: 14px 18px;
+  border-radius: 8px;
+  line-height: 1.7;
+&quot;&gt;
+这是第一篇关于艾的记录📝</summary>
+    
+    
+    
+    
+    <category term="艾艾艾的随记" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>很需要</title>
+    <link href="https://andy111-oss.github.io/aiai/2025/05/20/%E5%B0%86%E6%95%85%E4%BA%8B%E5%86%99%E6%88%90%E6%88%91%E4%BB%AC/"/>
+    <id>https://andy111-oss.github.io/aiai/2025/05/20/%E5%B0%86%E6%95%85%E4%BA%8B%E5%86%99%E6%88%90%E6%88%91%E4%BB%AC/</id>
+    <published>2025-05-20T05:22:48.000Z</published>
+    <updated>2026-05-08T13:50:33.206Z</updated>
+    
+    <content type="html"><![CDATA[<div style="  background-color: #fcfbf8;  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08),               inset 0 -1px 2px rgba(255,255,255,0.8);  padding: 14px 18px;  border-radius: 8px;  line-height: 1.7;">越发觉得没有你我该怎么办呢？<span id="more"></span><p>有一种堵在心口的幸福感由内而外的想向外迸发，我从未觉得自己会离幸福那么近，原来这一切都是因为靠近了你。</p><p>艾艾，我真的很爱很爱很爱你，你的单纯，你的懵懂，你的小聪明劲，你的慌张，你的局促……都让我觉得你是我最好的选择。我也不知道我们今后会怎样，但我很贪婪的想拥有你的一切。我没有理由不喜欢不爱不占有你。</p><p>你是第一个也是唯一一个看见我并且愿意触碰我的人。我该怎么做才能让你不离开我呢？我该怎么做才能拥有你？</p><p>那么真挚的你那么脆弱的你，艾艾，当你存在我身边，无论距离远近，你是我今后最想占有的人，我控制不住我自己，想念愈发浓烈。</p><p>我爱你，艾艾，爱到哪怕你离开我。</p><p>但是，可不可以不离开呢</p><p>我自私的需要你，很需要。</p></div>]]></content>
+    
+    
+    <summary type="html">&lt;div style=&quot;
+  background-color: #fcfbf8;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.08), 
+              inset 0 -1px 2px rgba(255,255,255,0.8);
+  padding: 14px 18px;
+  border-radius: 8px;
+  line-height: 1.7;
+&quot;&gt;
+越发觉得没有你我该怎么办呢？</summary>
+    
+    
+    
+    <category term="我们" scheme="https://andy111-oss.github.io/aiai/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+    <category term="艾艾艾的碎碎念" scheme="https://andy111-oss.github.io/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+</feed>
