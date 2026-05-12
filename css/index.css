@@ -2480,6 +2480,16 @@ figure.highlight pre .javascript .function {
     width: 100% !important;
   }
 }
+@media screen and (min-width: 900px) {
+  .layout > div:first-child {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+}
 .layout.hide-aside {
   max-width: 1000px;
 }
@@ -3412,7 +3422,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (min-width: 900px) {
   #aside-content {
-    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 @media screen and (max-width: 900px) {
@@ -7834,6 +7844,20 @@ blockquote.pullquote.right {
   -o-animation: spin 1s linear infinite;
   -ms-animation: spin 1s linear infinite;
   animation: spin 1s linear infinite;
+}
+@media screen and (max-width: 768px) {
+  #local-search .search-dialog .search-result-list {
+    max-height: calc(var(--search-height) - 200px) !important;
+  }
+}
+#local-search #local-search-stats .search-result-stats {
+  text-align: left;
+}
+#local-search .search-keyword {
+  font-weight: 600;
+}
+#local-search #loading-database ~ * {
+  visibility: hidden;
 }
 @-moz-keyframes spin {
   to {
