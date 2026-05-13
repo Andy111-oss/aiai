@@ -161,7 +161,13 @@
 .category-page,
 #aside-content .card-widget,
 #toc,
-#footer
+#footer,
+
+/* ########## 新增：文章内页主体全屏磨砂 ########## */
+#post,
+#page,
+.layout_post #post,
+.layout_page #page
 {
   background: rgba(255,255,255,0.22) !important;
   backdrop-filter: blur(6px) !important;
@@ -169,6 +175,15 @@
   border: 1px solid rgba(255,255,255,0.12) !important;
   border-radius: 14px !important;
   box-shadow: 0 8px 30px rgba(0,0,0,0.08) !important;
+}
+
+/* ########## 新增：清除文章内页默认白色背景 ########## */
+#content-inner,
+.layout_post > #post,
+.layout_page > #page,
+#post-info {
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
 /* 导航栏 */
@@ -245,7 +260,17 @@
 [data-theme="dark"]
 #toc,
 [data-theme="dark"]
-#footer
+#footer,
+
+/* ########## 新增：深色模式文章内页磨砂 ########## */
+[data-theme="dark"]
+#post,
+[data-theme="dark"]
+#page,
+[data-theme="dark"]
+.layout_post #post,
+[data-theme="dark"]
+.layout_page #page
 {
   background: rgba(20,20,25,0.22) !important;
   border-color: rgba(255,255,255,0.08) !important;
@@ -253,15 +278,14 @@
 [data-theme="dark"] #page-header #nav {
   background: rgba(20,20,25,0.25) !important;
 }
-/* 在 inject.head 的 style 中新增 */
+
 img {
-display: block;
-max-width: 100%;
-object-fit: cover;
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
 }
-/* WebP 自动降级（可选）*/
 picture source[type="image/webp"] {
-width: 100%;
+  width: 100%;
 }
 </style>
 <meta name="generator" content="Hexo 8.1.2"><link rel="alternate" href="/aiai/atom.xml" title="艾艾记忆本" type="application/atom+xml">
@@ -272,7 +296,7 @@ width: 100%;
           </div>
           <ul class="card-category-list" id="aside-cat-list">
             <li class="card-category-list-item "><a class="card-category-list-link" href="/aiai/categories/%E6%88%91%E4%BB%AC/"><span class="card-category-list-name">我们</span><span class="card-category-list-count">9</span></a></li>
-          </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/" style="font-size: 1.1em; color: #999">艾艾艾的随记</a> <a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/" style="font-size: 1.3em; color: #99a1ac">艾艾艾的求婚日记</a> <a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/" style="font-size: 1.5em; color: #99a9bf">艾艾艾的碎碎念</a></div></div><div class="card-widget card-archives">
+          </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/" style="font-size: 1.3em; color: #99a1ac">艾艾艾的求婚日记</a> <a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/" style="font-size: 1.5em; color: #99a9bf">艾艾艾的碎碎念</a> <a href="/aiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/" style="font-size: 1.1em; color: #999">艾艾艾的随记</a></div></div><div class="card-widget card-archives">
     <div class="item-headline">
       <i class="fas fa-archive"></i>
       <span>归档</span>
@@ -300,7 +324,7 @@ width: 100%;
         </li>
       
     </ul>
-  </div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站信息</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">11</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">4.6k</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总浏览量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2026-05-13T11:34:14.348Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div class="footer-other"><div class="footer-copyright"><span class="copyright">&copy;&nbsp;2025 - 2026 By aiai</span></div><div class="footer_custom_text">你记忆的缺口，我为你补上最后一块拼图</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="前往评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/aiai/js/utils.js?v=5.5.5-b1"></script><script src="/aiai/js/main.js?v=5.5.5-b1"></script><div class="js-pjax"><script>(() => {
+  </div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站信息</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">11</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">4.6k</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总浏览量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2026-05-13T17:23:39.618Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div class="footer-other"><div class="footer-copyright"><span class="copyright">&copy;&nbsp;2025 - 2026 By aiai</span></div><div class="footer_custom_text">你记忆的缺口，我为你补上最后一块拼图</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="前往评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/aiai/js/utils.js?v=5.5.5-b1"></script><script src="/aiai/js/main.js?v=5.5.5-b1"></script><div class="js-pjax"><script>(() => {
   const isShuoshuo = GLOBAL_CONFIG_SITE.pageType === 'shuoshuo'
   const option = null
 

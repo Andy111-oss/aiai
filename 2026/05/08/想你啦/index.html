@@ -176,7 +176,13 @@
 .category-page,
 #aside-content .card-widget,
 #toc,
-#footer
+#footer,
+
+/* ########## 新增：文章内页主体全屏磨砂 ########## */
+#post,
+#page,
+.layout_post #post,
+.layout_page #page
 {
   background: rgba(255,255,255,0.22) !important;
   backdrop-filter: blur(6px) !important;
@@ -184,6 +190,15 @@
   border: 1px solid rgba(255,255,255,0.12) !important;
   border-radius: 14px !important;
   box-shadow: 0 8px 30px rgba(0,0,0,0.08) !important;
+}
+
+/* ########## 新增：清除文章内页默认白色背景 ########## */
+#content-inner,
+.layout_post > #post,
+.layout_page > #page,
+#post-info {
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
 /* 导航栏 */
@@ -260,7 +275,17 @@
 [data-theme="dark"]
 #toc,
 [data-theme="dark"]
-#footer
+#footer,
+
+/* ########## 新增：深色模式文章内页磨砂 ########## */
+[data-theme="dark"]
+#post,
+[data-theme="dark"]
+#page,
+[data-theme="dark"]
+.layout_post #post,
+[data-theme="dark"]
+.layout_page #page
 {
   background: rgba(20,20,25,0.22) !important;
   border-color: rgba(255,255,255,0.08) !important;
@@ -268,15 +293,14 @@
 [data-theme="dark"] #page-header #nav {
   background: rgba(20,20,25,0.25) !important;
 }
-/* 在 inject.head 的 style 中新增 */
+
 img {
-display: block;
-max-width: 100%;
-object-fit: cover;
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
 }
-/* WebP 自动降级（可选）*/
 picture source[type="image/webp"] {
-width: 100%;
+  width: 100%;
 }
 </style>
 <meta name="generator" content="Hexo 8.1.2"><link rel="alternate" href="/aiai/atom.xml" title="艾艾记忆本" type="application/atom+xml">
